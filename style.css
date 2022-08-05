@@ -71,3 +71,27 @@ footer{
     font-size: 50px;
     padding: 20px;
 }
+
+h1{
+  text-align: center;  
+}
+img{
+    width: 700px;
+    margin: 20px;
+}
+h2{
+    margin: 25px;
+}
+p{
+    font-size: 24px;
+}
+
+ul{
+    list-style: none;
+    width: 80%;
+    text-align: center;
+}
+.steps{
+    font-size: 17px;
+    line-height: 8px;
+}
